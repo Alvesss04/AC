@@ -12,7 +12,7 @@ This repository contains the practical assignments and assembly code developed f
 
 The Computer Architecture course explores the hardware/software interface, covering instruction set architectures (ISA), assembly language programming, processor design, arithmetic for computers, and memory hierarchy.
 
-The repository includes specific practical assignments implemented in **Assembly**:
+The repository includes specific practical assignments (only 3 & 4) implemented in **Assembly**:
 
 ### 1. Assignment 3 (TPC3)
 * **Objective & Description:** Implementation of low-level algorithms and data manipulation routines in Assembly.
