@@ -14,13 +14,18 @@ The Computer Architecture course explores the hardware/software interface, cover
 
 The repository includes specific practical assignments implemented in **Assembly**:
 
-### 1. Assignment 3 (TPC3)
+### 1. Assignment 2 (TPC2)
+* **Objective & Description:** A low-level C program involving systems/pointer manipulation or execution control
+* **Documentation & Code:**
+  * [Source Code (Assembly)](./src/TPC2.s)
+
+### 2. Assignment 3 (TPC3)
 * **Objective & Description:** Implementation of low-level algorithms and data manipulation routines in Assembly.
 * **Documentation & Code:**
   * [Assignment Statement (PDF)](./src/TPC3-Maio-2024-EN.pdf)
   * [Source Code (Assembly)](./src/TPC3.s)
 
-### 2. Assignment 4 (TPC4)
+### 3. Assignment 4 (TPC4)
 * **Objective & Description:** Advanced assembly programming, focusing on procedural calls, stack management, and low-level control flows.
 * **Documentation & Code:**
   * [Assignment Statement (PDF)](./src/TPC4-Maio-2024-EN.pdf)
