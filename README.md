@@ -7,7 +7,7 @@ This repository contains the practical assignments, C simulators, and assembly c
 ## ✍️ Authors
 - Tomás Alves (Student No. 68681)
 - Felipe Magno (Student No. 67994)
-- *(Note: TPC1 also had the collaboration of Student No. 68473)*
+- Luis Martins (Student No. 68473)
 
 ## 📌 About the Course and Assignments
 
