@@ -18,7 +18,7 @@ The repository includes specific practical assignments implemented in **C**, **B
 ### 1. Assignment 1 (TPC1)
 * **Objective & Description:** Implementation of a simplified One Time Pad (OTP) encryption system using C and Bash scripting.
 * **Documentation & Code:**
-  * [Assignment Statement (PDF)](./src/TPC1/TPC1-Marco-2024_EN.pdf)
+  * [Assignment Statement (PDF)](./src/TPC1/TPC1-Marco-2024-EN.pdf)
   * [Source Code (C - Encryption)](./src/TPC1/encript.c)
   * [Source Code (Bash - Script)](./src/TPC1/encripter.sh)
 
